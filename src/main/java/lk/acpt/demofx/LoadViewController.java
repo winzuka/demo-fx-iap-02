@@ -67,4 +67,8 @@ public class LoadViewController implements Initializable {
         ArrayList<Vehicle> vehicles = loadData();
         tblVehicle.setItems(FXCollections.observableArrayList(vehicles));
     }
+
+    public void getValues(){
+       //just make a function to commit
+    }
 }
