@@ -74,6 +74,7 @@ public class LoadViewController implements Initializable {
 
     public void getDetails(){
         //just make a function to commit Details
+        System.out.println("finished");
     }
 
     public void getVehicleBrand(){
