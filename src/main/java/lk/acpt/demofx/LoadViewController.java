@@ -75,4 +75,8 @@ public class LoadViewController implements Initializable {
     public void getDetails(){
         //just make a function to commit Details
     }
+
+    public void getVehicleBrand(){
+        //just make a function to commit Vehicle Brand
+    }
 }
