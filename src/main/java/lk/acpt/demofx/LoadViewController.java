@@ -78,5 +78,6 @@ public class LoadViewController implements Initializable {
 
     public void getVehicleBrand(){
         //just make a function to commit Vehicle Brand
+        System.out.println("Edited the function");
     }
 }
