@@ -71,4 +71,8 @@ public class LoadViewController implements Initializable {
     public void getValues(){
        //just make a function to commit
     }
+
+    public void getDetails(){
+        //just make a function to commit Details
+    }
 }
